@@ -38,7 +38,7 @@ const Qualification = () => {
                             <span className="qualification__subtitle">United College of Eng & Research</span>
                             <div className="qualification__calendar">
                                 <i className="uil uil-calendar-alt"></i>
-                                2019 - Present
+                                2019 - 2023
                             </div>
                         </div>
 
